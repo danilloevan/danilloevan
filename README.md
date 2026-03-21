@@ -2,26 +2,26 @@
 
 ### Desenvolvedor Java Backend | Entusiasta de IA & Microserviços
 
-[cite_start]Sou um desenvolvedor apaixonado por resolver problemas complexos e otimizar processos através de código limpo e escalável[cite: 9, 21]. [cite_start]Com uma base sólida no ecossistema **Java/Spring** e experiência prática em modernização de sistemas legados, atualmente foco em elevar a qualidade técnica de sistemas na **3IT Consultoria**[cite: 18, 19, 21].
+Sou um desenvolvedor apaixonado por resolver problemas complexos e otimizar processos através de código limpo e escalável. Com uma base sólida no ecossistema **Java/Spring** e experiência prática em modernização de sistemas legados, atualmente foco em elevar a qualidade técnica de sistemas na **3IT Consultoria**.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- [cite_start]🎓 Atualmente cursando **MBA em Engenharia de Software com IA** pela Faculdade Full Cycle.
-- [cite_start]💡 Criador do projeto **PrevQuiz**, uma solução de gamificação que aumentou o engajamento de usuários e colaboradores.
-- [cite_start]🛠️ Experiência em transição: de Analista de Suporte a Desenvolvedor Backend, o que me deu uma visão 360º sobre a experiência do usuário e regras de negócio[cite: 18, 26].
-- [cite_start]🤖 Interessado em Automações com Python, Agno e o protocolo MCP[cite: 13].
+- 🎓 Atualmente cursando **MBA em Engenharia de Software com IA** pela Faculdade Full Cycle.
+- 💡 Criador do projeto **PrevQuiz**, uma solução de gamificação que aumentou o engajamento de usuários e colaboradores.
+- 🛠️ Experiência em transição: de Analista de Suporte a Desenvolvedor Backend, o que me deu uma visão 360º sobre a experiência do usuário e regras de negócio.
+- 🤖 Interessado em Automações com Python, Agno e o protocolo MCP.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- [cite_start]**Backend:** Java (Spring Boot, Data JPA), Hibernate, gRPC[cite: 9, 13, 18].
-- [cite_start]**Frontend:** Angular (SPA, CRUDs)[cite: 10].
-- [cite_start]**Dados:** SQL, PostgreSQL, JasperStudio (Reports)[cite: 11, 21, 25].
-- [cite_start]**Infra & DevOps:** Docker, AWS (EC2, ECS, Route 53), VPS[cite: 12, 13].
-- [cite_start]**IA & Automação:** Python, LangChain, Agno (Agente Claudio)[cite: 13].
+- **Backend:** Java (Spring Boot, Data JPA), Hibernate, gRPC.
+- **Frontend:** Angular (SPA, CRUDs).
+- **Dados:** SQL, PostgreSQL, JasperStudio (Reports).
+- **Infra & DevOps:** Docker, AWS (EC2, ECS, Route 53), VPS.
+- **IA & Automação:** Python, LangChain, Agno (Agente Claudio).
 
 ---
 
