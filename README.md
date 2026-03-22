@@ -39,8 +39,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos e otimizar proc
 ### Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![H2](https://img.shields.io/badge/H2_Database-0000BB?style=for-the-badge&logo=h2&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-2596CD?style=for-the-badge&logo=jasper&logoColor=white)
 
